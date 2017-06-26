@@ -1,1 +1,1 @@
-# frases.github.io
+# Frases geradas aleatóriamente :page_with_curl:
